@@ -1,0 +1,48 @@
+body {
+  background: white;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  font-family: sans-serif;
+  color: orangered;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h2 {
+  font-family:sans-serif;
+  color: rgb(255,135,60);
+  text-align: center;
+
+}
+
+p {
+  font-family:sans-serif;
+  color: orangered;
+  text-align: center;
+}
+
+.list {
+  color: darkgreen;
+  background-color: bisque;
+  border-radius: 5px;
+}
+
+.taskbar {
+ margin: 5px;
+}
+
+img {
+  width: 450px;
+  margin: 10px;
+
+}
